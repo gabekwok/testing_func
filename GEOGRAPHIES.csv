@@ -1,0 +1,94 @@
+geography,gau
+interconnection,wecc
+teppc_load_area,ava
+teppc_load_area,azps
+teppc_load_area,banc
+teppc_load_area,bpat
+teppc_load_area,chpd
+teppc_load_area,cipb
+teppc_load_area,cipv
+teppc_load_area,cisc
+teppc_load_area,cisd
+teppc_load_area,dopd
+teppc_load_area,epe
+teppc_load_area,gcpd
+teppc_load_area,iid
+teppc_load_area,ipfe
+teppc_load_area,ipmv
+teppc_load_area,iptv
+teppc_load_area,ldwp
+teppc_load_area,nevp
+teppc_load_area,nwmt
+teppc_load_area,pacw
+teppc_load_area,paid
+teppc_load_area,paut
+teppc_load_area,pawy
+teppc_load_area,pge
+teppc_load_area,pnm
+teppc_load_area,psco
+teppc_load_area,psei
+teppc_load_area,scl
+teppc_load_area,sppc
+teppc_load_area,srp
+teppc_load_area,tepc
+teppc_load_area,tidc
+teppc_load_area,tpwr
+teppc_load_area,vea
+teppc_load_area,wacm
+teppc_load_area,walc
+teppc_load_area,wauw
+teppc_region,bs_ipco
+teppc_region,bs_pace
+teppc_region,ca_banc
+teppc_region,ca_ciso
+teppc_region,ca_iid
+teppc_region,ca_ldwp
+teppc_region,ca_tidc
+teppc_region,nw_ava
+teppc_region,nw_bpat
+teppc_region,nw_chpd
+teppc_region,nw_dopd
+teppc_region,nw_gcpd
+teppc_region,nw_nwmt
+teppc_region,nw_pacw
+teppc_region,nw_pge
+teppc_region,nw_psei
+teppc_region,nw_scl
+teppc_region,nw_tpwr
+teppc_region,nw_wauw
+teppc_region,rm_psco
+teppc_region,rm_wacm
+teppc_region,sw_azps
+teppc_region,sw_epe
+teppc_region,sw_nve
+teppc_region,sw_pnm
+teppc_region,sw_srp
+teppc_region,sw_tepc
+teppc_region,sw_walc
+dispatch_zone,caiso
+dispatch_zone,non-caiso-ca
+dispatch_zone,pnw
+dispatch_zone,rest-of-wecc
+state,arizona
+state,california
+state,colorado
+state,idaho
+state,montana
+state,nevada
+state,new mexico
+state,oregon
+state,texas
+state,utah
+state,washington
+state,wyoming
+time zone,US/Alaska
+time zone,US/Arizona
+time zone,US/Central
+time zone,US/Eastern
+time zone,US/Hawaii
+time zone,US/Mountain
+time zone,US/Pacific
+hydro_region,ca
+hydro_region,nw
+hydro_region,sw
+hydro_region,rm

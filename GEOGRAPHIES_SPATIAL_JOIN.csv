@@ -1,0 +1,56 @@
+interconnection,teppc_load_area,hydro_region,teppc_region,dispatch_zone,state,load_ratio_share,retail_sales_gwh,hydro_capacity,time zone
+wecc,ipfe,nw,bs_ipco,rest-of-wecc,idaho,1,1704.6,46.17,US/Mountain
+wecc,ipmv,nw,bs_ipco,rest-of-wecc,idaho,1,4313.7,282.255,US/Mountain
+wecc,iptv,nw,bs_ipco,rest-of-wecc,idaho,0.92,7629.7,696.35,US/Mountain
+wecc,iptv,nw,bs_ipco,rest-of-wecc,oregon,0.08,667,696.35,US/Pacific
+wecc,paid,nw,bs_pace,rest-of-wecc,idaho,1,4293,276,US/Mountain
+wecc,paut,nw,bs_pace,rest-of-wecc,utah,1,29226,41.5,US/Mountain
+wecc,pawy,nw,bs_pace,rest-of-wecc,wyoming,1,9200,0,US/Mountain
+wecc,banc,ca,ca_banc,non-caiso-ca,california,1,15569,2607.06,US/Pacific
+wecc,cipb,ca,ca_ciso,caiso,california,1,39983.9,0,US/Pacific
+wecc,cipv,ca,ca_ciso,caiso,california,1,52977.5,5787.34,US/Pacific
+wecc,cisc,ca,ca_ciso,caiso,california,1,95508.2,1441.08,US/Pacific
+wecc,cisd,ca,ca_ciso,caiso,california,1,19120.4,0,US/Pacific
+wecc,vea,ca,ca_ciso,caiso,nevada,1,524,0,US/Pacific
+wecc,iid,ca,ca_iid,non-caiso-ca,california,1,3405,83.5,US/Pacific
+wecc,ldwp,ca,ca_ldwp,non-caiso-ca,california,1,24918,289.7,US/Pacific
+wecc,tidc,ca,ca_tidc,non-caiso-ca,california,1,2005,158.2,US/Pacific
+wecc,ava,nw,nw_ava,pnw,idaho,0.342,3594,541.475,US/Mountain
+wecc,ava,nw,nw_ava,pnw,washington,0.658,6909,541.475,US/Pacific
+wecc,bpat,nw,nw_bpat,pnw,idaho,0.029,1513,4243.412002,US/Mountain
+wecc,bpat,nw,nw_bpat,pnw,montana,0.037,1896,4243.412002,US/Mountain
+wecc,bpat,nw,nw_bpat,pnw,oregon,0.262,13555,4243.412002,US/Pacific
+wecc,bpat,nw,nw_bpat,pnw,washington,0.658,34031,4243.412002,US/Pacific
+wecc,bpat,nw,nw_bpat,pnw,wyoming,0.014,698,4243.412002,US/Mountain
+wecc,chpd,nw,nw_chpd,pnw,washington,1,1554,1816.2,US/Pacific
+wecc,dopd,nw,nw_dopd,pnw,washington,1,1408,840,US/Pacific
+wecc,gcpd,nw,nw_gcpd,pnw,washington,1,4384,2049,US/Pacific
+wecc,nwmt,nw,nw_nwmt,rest-of-wecc,montana,1,9995,623.9,US/Mountain
+wecc,pacw,nw,nw_pacw,pnw,california,0.045,851,326.7833333,US/Pacific
+wecc,pacw,nw,nw_pacw,pnw,oregon,0.743,13960,326.7833333,US/Pacific
+wecc,pacw,nw,nw_pacw,pnw,washington,0.212,3982,326.7833333,US/Pacific
+wecc,pge,nw,nw_pge,pnw,oregon,1,19166,552.6,US/Pacific
+wecc,psei,nw,nw_psei,pnw,washington,1,22732,365.35,US/Pacific
+wecc,scl,nw,nw_scl,pnw,washington,1,9260,1879.9,US/Pacific
+wecc,tpwr,nw,nw_tpwr,pnw,washington,1,4627,837.8,US/Pacific
+wecc,wauw,nw,nw_wauw,rest-of-wecc,montana,0.743,929,56.4,US/Mountain
+wecc,wauw,nw,nw_wauw,rest-of-wecc,wyoming,0.257,321,56.4,US/Mountain
+wecc,psco,rm,rm_psco,rest-of-wecc,colorado,1,39307,64.73,US/Mountain
+wecc,wacm,rm,rm_wacm,rest-of-wecc,colorado,0.648,15455,526.404,US/Mountain
+wecc,wacm,nw,rm_wacm,rest-of-wecc,montana,0.009,218,526.404,US/Mountain
+wecc,wacm,rm,rm_wacm,rest-of-wecc,new mexico,0.044,1052,526.404,US/Mountain
+wecc,wacm,rm,rm_wacm,rest-of-wecc,utah,0.035,825,526.404,US/Mountain
+wecc,wacm,rm,rm_wacm,rest-of-wecc,wyoming,0.264,6291,526.404,US/Mountain
+wecc,azps,sw,sw_azps,rest-of-wecc,arizona,1,30151,0,US/Arizona
+wecc,epe,sw,sw_epe,rest-of-wecc,new mexico,0.211,1650,0,US/Mountain
+wecc,epe,sw,sw_epe,rest-of-wecc,texas,0.789,6173,0,US/Central
+wecc,nevp,sw,sw_nve,rest-of-wecc,nevada,1,23964.2,521.36,US/Pacific
+wecc,sppc,sw,sw_nve,rest-of-wecc,nevada,1,11288.8,0,US/Pacific
+wecc,pnm,sw,sw_pnm,rest-of-wecc,arizona,0.031,394,11.65,US/Arizona
+wecc,pnm,sw,sw_pnm,rest-of-wecc,new mexico,0.969,12289,11.65,US/Mountain
+wecc,srp,sw,sw_srp,rest-of-wecc,arizona,1,28253,90.5,US/Arizona
+wecc,tepc,sw,sw_tepc,rest-of-wecc,arizona,1,10630,0,US/Arizona
+wecc,walc,sw,sw_walc,rest-of-wecc,arizona,0.727,8259,205.145,US/Arizona
+wecc,walc,sw,sw_walc,rest-of-wecc,california,0.208,2358,205.145,US/Pacific
+wecc,walc,sw,sw_walc,rest-of-wecc,nevada,0.018,205,205.145,US/Pacific
+wecc,walc,sw,sw_walc,rest-of-wecc,new mexico,0.047,535,205.145,US/Mountain
