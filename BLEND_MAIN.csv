@@ -1,0 +1,9 @@
+name,exceed_demand,enforce_zonal_constraints,enforce_storage_constraints
+coal,FALSE,TRUE,FALSE
+uranium,FALSE,TRUE,FALSE
+pipeline gas,FALSE,TRUE,FALSE
+diesel fuels,FALSE,TRUE,FALSE
+biomass wood,FALSE,TRUE,FALSE
+biomass landfill gas,FALSE,TRUE,FALSE
+biomass other,FALSE,TRUE,FALSE
+petroleum coke,FALSE,TRUE,FALSE
